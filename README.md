@@ -10,8 +10,6 @@ Create Pilot Collection - Main Screen
 CREDIT
 I’d like to thank Nickolaj Andersen (http://www.scconfigmgr.com) for writing and providing me with the Invoke-ToolInstallation.ps1 script to handle the installation of the Console Extension.  It’s been modified from his original version so I’ll provide a write-up on leveraging this script in a follow-up blog post.
 
-Download
-You can download the Console Extension from the TechNet Gallery.
 
 I’ve included the PowerShell Studio Project Files if you would like to tinker and modify for your own use.
 
