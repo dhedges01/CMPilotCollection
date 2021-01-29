@@ -18,9 +18,6 @@ I’ve included the PowerShell Studio Project Files if you would like to tinker 
 Install
 To install the Console Extension, extract the .zip file you downloaded to a directory of your choice.  From an Administrative PowerShell Console, run the Invoke-ToolInstallation.PS1 script from the extracted directory.
 
-
-REPORT THIS AD
-
 NOTE: If you currently have the ConfigMgr Console open, you’ll need to close and re-open it.
 
 Usage
